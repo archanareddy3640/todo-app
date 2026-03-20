@@ -26,4 +26,4 @@ A modern To-Do application built using HTML, CSS, and JavaScript with task persi
 ---
 
 ## 🔗 Live Demo
-Coming soon...
+https://archanareddy3640.github.io/todo-app/
